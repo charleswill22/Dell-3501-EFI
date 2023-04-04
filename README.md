@@ -43,7 +43,7 @@ Não Funciona: Airdrop.
 
 
 
-Opencore: 0.9.0
+Opencore: 0.9.1
 
 
 
